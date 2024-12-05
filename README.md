@@ -42,6 +42,7 @@ This project involves building an **interactive Power BI dashboard** to visualiz
 
 ### Key Points:
 **Images for Power BI Dashboard and MTD Report:**
+```
 ![Mobile Sales Dashboard](./Dashboard.jpg)
 ![Same Period Last Year report](./Same%20Period%20Last%20Year%20report.jpg)
 ![MTD Report](./MTD%20Report.jpg)
